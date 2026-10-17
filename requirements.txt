@@ -1,0 +1,9 @@
+torch
+flwr
+opacus
+river
+avalanche-lib
+pandas
+numpy
+scikit-learn
+matplotlib
