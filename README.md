@@ -70,7 +70,7 @@ No patient-level data is stored in this repository. Datasets are downloaded from
 ## Authors
 
 - Harshita Pandita
-- [Add your teammate's name here]
+- Pranjal Tomar
 
 ## Licence
 
