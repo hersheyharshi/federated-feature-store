@@ -1,0 +1,10 @@
+drift strength (p_recover),strategy,old model on new stage,forgetting,new-stage accuracy after,alarm detected,median delay,false alarms
+0.3,No protection,68.9%,3.8% ± 2.1%,68.6%,3/10,62,2
+0.3,Replay,68.9%,1.0% ± 1.5%,68.9%,3/10,62,2
+0.3,EWC (lambda=10),68.9%,0.2% ± 0.9%,68.8%,3/10,62,2
+0.6,No protection,60.7%,18.0% ± 7.8%,66.1%,7/10,41,2
+0.6,Replay,60.7%,3.8% ± 2.2%,64.4%,7/10,41,2
+0.6,EWC (lambda=10),60.7%,0.6% ± 0.8%,62.0%,7/10,41,2
+0.9,No protection,51.0%,32.6% ± 7.0%,76.6%,8/10,27,2
+0.9,Replay,51.0%,9.7% ± 3.7%,61.0%,8/10,27,2
+0.9,EWC (lambda=10),51.0%,0.8% ± 1.2%,52.9%,8/10,27,2
