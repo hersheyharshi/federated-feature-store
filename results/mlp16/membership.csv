@@ -1,0 +1,3 @@
+model,attack AUC,train accuracy,test accuracy
+DP eps=1,0.498 ± 0.032,73.0%,73.3%
+no privacy,0.574 ± 0.063,97.4%,79.9%

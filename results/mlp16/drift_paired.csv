@@ -1,0 +1,5 @@
+strategy vs no protection,forgetting avoided (points),new-stage accuracy change (points),mean-of-both-stages change (points)
+Replay,"22.0 [16.8, 27.1]","-13.2 [-16.6, -9.9]","4.4 [1.7, 7.1]"
+EWC (lambda=1),"2.7 [0.8, 4.6]","-1.5 [-3.7, 0.7]","0.6 [-0.8, 2.1]"
+EWC (lambda=10),"14.7 [9.7, 19.7]","-8.5 [-13.6, -3.3]","3.1 [0.0, 6.2]"
+EWC (lambda=100),"27.5 [20.2, 34.8]","-22.5 [-31.3, -13.6]","2.5 [-2.3, 7.4]"

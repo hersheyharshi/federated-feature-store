@@ -1,0 +1,11 @@
+seed,marker,delta,error_increase_same_patients,bound_holds
+0,max_heart_rate,0.324,0.313,True
+1,max_heart_rate,0.298,0.25,True
+2,st_depression,0.392,0.348,True
+3,st_depression,0.278,0.228,True
+4,st_depression,0.34,0.286,True
+5,st_depression,0.376,0.354,True
+6,st_depression,0.332,0.304,True
+7,st_depression,0.408,0.283,True
+8,st_depression,0.313,0.28,True
+9,st_depression,0.335,0.244,True
