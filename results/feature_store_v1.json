@@ -1,0 +1,124 @@
+{
+  "version": "1.0",
+  "schema_hash": "037b0b201f2c",
+  "source": "shared",
+  "features": [
+    {
+      "name": "age",
+      "meaning": "Age of patient",
+      "unit": "years",
+      "lo": 18,
+      "hi": 100,
+      "mean": 53.51086956521739,
+      "std": 9.41956170541482
+    },
+    {
+      "name": "sex",
+      "meaning": "1 = male, 0 = female",
+      "unit": "category",
+      "lo": 0,
+      "hi": 1,
+      "mean": 0.7891304347826087,
+      "std": 0.40792596348163435
+    },
+    {
+      "name": "chest_pain",
+      "meaning": "Chest pain type (1-4, 0 if coded so)",
+      "unit": "category",
+      "lo": 0,
+      "hi": 4,
+      "mean": 3.25,
+      "std": 0.9304627179877859
+    },
+    {
+      "name": "resting_bp",
+      "meaning": "Resting blood pressure on admission",
+      "unit": "mm Hg",
+      "lo": 50,
+      "hi": 260,
+      "mean": 132.28604651162792,
+      "std": 18.525395283675827
+    },
+    {
+      "name": "cholesterol",
+      "meaning": "Serum cholesterol",
+      "unit": "mg/dl",
+      "lo": 50,
+      "hi": 700,
+      "mean": 246.83286908077994,
+      "std": 58.48629037615023
+    },
+    {
+      "name": "fasting_sugar",
+      "meaning": "Fasting blood sugar > 120 mg/dl",
+      "unit": "category",
+      "lo": 0,
+      "hi": 1,
+      "mean": 0.16626506024096385,
+      "std": 0.3723183986644127
+    },
+    {
+      "name": "rest_ecg",
+      "meaning": "Resting ECG result (0-2)",
+      "unit": "category",
+      "lo": 0,
+      "hi": 2,
+      "mean": 0.6045751633986928,
+      "std": 0.8053881622205636
+    },
+    {
+      "name": "max_heart_rate",
+      "meaning": "Maximum heart rate achieved",
+      "unit": "bpm",
+      "lo": 40,
+      "hi": 250,
+      "mean": 137.5456647398844,
+      "std": 25.91128587200527
+    },
+    {
+      "name": "exercise_angina",
+      "meaning": "Exercise-induced angina",
+      "unit": "category",
+      "lo": 0,
+      "hi": 1,
+      "mean": 0.3895953757225434,
+      "std": 0.4876585064757444
+    },
+    {
+      "name": "st_depression",
+      "meaning": "ST depression induced by exercise",
+      "unit": "mm",
+      "lo": -3,
+      "hi": 8,
+      "mean": 0.8787878787878788,
+      "std": 1.0905901502170794
+    },
+    {
+      "name": "st_slope",
+      "meaning": "Slope of peak exercise ST segment (0-3)",
+      "unit": "category",
+      "lo": 0,
+      "hi": 3,
+      "mean": 1.7708674304418985,
+      "std": 0.6187488567489192
+    },
+    {
+      "name": "major_vessels",
+      "meaning": "Major vessels coloured by fluoroscopy",
+      "unit": "count",
+      "lo": 0,
+      "hi": 4,
+      "mean": 0.6763754045307443,
+      "std": 0.9341377840150311
+    },
+    {
+      "name": "thal",
+      "meaning": "Thalassemia test result (3, 6, 7)",
+      "unit": "category",
+      "lo": 0,
+      "hi": 7,
+      "mean": 5.087557603686636,
+      "std": 1.916862362248849
+    }
+  ]
+}
