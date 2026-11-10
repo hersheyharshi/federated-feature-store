@@ -10,8 +10,7 @@ Four hospital datasets, one shared heart-disease model, no patient record ever p
 ![Python](https://img.shields.io/badge/python-3.10%2B-1f2a44.svg)
 ![Tests](https://img.shields.io/badge/tests-14%20passing-e09f3e.svg)
 ![Data](https://img.shields.io/badge/data-UCI%20Heart%20Disease-8d99ae.svg)
-<!-- After the Zenodo release, add: [![DOI](https://zenodo.org/badge/DOI/YOUR-DOI.svg)](https://doi.org/YOUR-DOI) -->
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24096856.svg)](https://doi.org/10.5281/zenodo.24096856)
 [Showcase PDF](docs/showcase.pdf) | [Study guide](docs/guide_from_scratch.pdf) | [Full report](docs/report.md) | [Theory notes](docs/theory.md) | [Results](results/summary.md)
 
 </div>
