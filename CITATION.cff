@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Federated Continual Feature Stores with Differential Privacy: A Simulation Study on Multi-Site Heart Disease Data"
+type: software
+authors:
+  - family-names: Pandita
+    given-names: Harshita
+    orcid: "https://orcid.org/0009-0002-4479-0473"
+  - family-names: Tomar
+    given-names: Pranjal
+    orcid: "https://orcid.org/0009-0004-6638-2424"
+date-released: 2026-11-07
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/hersheyharshi/federated-feature-store"
+abstract: "A simulation study of federated learning with differential privacy, a shared feature store, concept-drift detection and forgetting protection on the four-site UCI Heart Disease data."
+keywords: [federated learning, differential privacy, concept drift, continual learning, feature store]
