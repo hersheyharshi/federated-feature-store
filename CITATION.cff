@@ -9,8 +9,9 @@ authors:
   - family-names: Tomar
     given-names: Pranjal
     orcid: "https://orcid.org/0009-0004-6638-2424"
-date-released: 2026-11-07
+date-released: 2026-11-10
 version: 1.0.0
+doi: 10.5281/zenodo.24096856
 license: MIT
 repository-code: "https://github.com/hersheyharshi/federated-feature-store"
 abstract: "A simulation study of federated learning with differential privacy, a shared feature store, concept-drift detection and forgetting protection on the four-site UCI Heart Disease data."
